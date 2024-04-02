@@ -59,8 +59,14 @@ p {
   border: 1px solid var(--primary-color);
   border-radius: 4px;
   font-size: 18px;
+  text-decoration: none;
   line-height: 27px;
   padding: 15px 30px;
+}
+
+.project-description a:hover {
+  background: var(--primary-color);
+  color: white;
 }
 
 .project-description {
