@@ -42,7 +42,7 @@ p {
   font-size: 64px;
 }
 
-.hero a {
+.btn-branding {
   background: var(--primary-color);
   border-radius: 4px;
   color: white;
@@ -51,7 +51,7 @@ p {
   padding: 15px 30px;
 }
 
-.project-description a {
+.btn-branding-outline {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
   border-radius: 4px;
@@ -61,7 +61,7 @@ p {
   padding: 15px 30px;
 }
 
-.project-description a:hover {
+.btn-branding-outline:hover {
   background: var(--primary-color);
   color: white;
 }
@@ -107,15 +107,6 @@ p {
 
 .content-contact h3 {
   font-weight: bold;
-}
-
-.content a {
-  background: var(--primary-color);
-  border-radius: 4px;
-  color: white;
-  font-size: 18px;
-  line-height: 27px;
-  padding: 15px 30px;
 }
 
 @media (max-width: 900px) {
