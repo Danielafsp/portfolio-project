@@ -99,6 +99,16 @@ p {
   margin: 30px;
 }
 
+.content-contact {
+  margin: 30px;
+  text-align: center;
+  font-family: var(--default-font-family);
+}
+
+.content-contact h3 {
+  font-weight: bold;
+}
+
 .content a {
   background: var(--primary-color);
   border-radius: 4px;
