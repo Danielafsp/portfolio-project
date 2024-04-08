@@ -109,6 +109,9 @@ p {
   font-weight: bold;
 }
 
+.logo {
+  max-height: 40px;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
